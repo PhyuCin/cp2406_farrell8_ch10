@@ -1,4 +1,4 @@
-public final class ProfessionalHideAndGoSeekPlayer
+public class ProfessionalHideAndGoSeekPlayer
    extends HideAndGoSeekPlayer
 {
    private double salary;
